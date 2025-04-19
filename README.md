@@ -1,5 +1,3 @@
-Here's the polished GitHub README.md without code blocks, using clean tables and concise formatting:
-
 ---
 
 # 🎬 IMDB Sentiment Analysis System
